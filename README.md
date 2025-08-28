@@ -1,5 +1,5 @@
 # LILPEEP
-site avaliativo do curso, biografia do cantor Lil Peep
+site biografia do cantor Lil Peep
 
 # ⋆౨ৎ informações gerais
 se não me engano esse foi o meu primeiro site feito individualmente.</br>
